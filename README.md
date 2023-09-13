@@ -12,7 +12,7 @@
 
 <hr/>
 
-<div id="stat" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otabek-dev&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="otabek-dev" style="width: 180px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=otabek-dev&show_icons=true&count_private=true&hide_border=true&theme=github_dark" style="width: 240px;" />
+<div id="stat" align="start">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otabek-dev&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="otabek-dev" style="width: 340px;" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=otabek-dev&show_icons=true&count_private=true&hide_border=true&theme=github_dark" style="width: 240px;" /> -->
 </div>
